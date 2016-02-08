@@ -1,0 +1,19 @@
+{
+  "name": "grunt-protractor-cucumber-examples",
+  "version": "1.0.0",
+  "description": "Sample project using grunt-protractor-cucumber plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthiktv006/grunt-protractor-cucumber-examples.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karthiktv006/grunt-protractor-cucumber-examples/issues"
+  },
+  "homepage": "https://github.com/karthiktv006/grunt-protractor-cucumber-examples#readme"
+}
